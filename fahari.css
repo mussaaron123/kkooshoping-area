@@ -1,0 +1,31 @@
+body{background-color:rgb(75, 39, 3);
+    width:auto;
+    opacity: 100%;
+height:hv ;}
+div{display: flex;
+width: 1100px;
+height: 100px;
+background-color:rgb(3, 3, 54);
+margin-left: 10px;
+margin-right: 100px;
+padding-left: 100px;
+padding-right: 100px;
+}
+.logo{color: aliceblue;
+float: left;
+font-style: italic;}
+div img{border-radius: 100%;}
+.menu ul{display: flex;
+float: right;
+background-color:whitesmoke;
+height: 0px;
+width: 0px;}
+.menu ul li{color:whitesmoke;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+text-size-adjust: 100px;
+text-decoration: none;}
+.menu ul li a{color:whitesmoke;
+text-decoration: none;
+margin: 10px;}
+span{width: 1000px;}
